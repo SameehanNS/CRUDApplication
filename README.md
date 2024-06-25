@@ -1,2 +1,1 @@
-This is a CRUD application built using React, Node, and MySql RDBMS.
-It is based on a simple financial institution and consists of 10 relational databases for various information like account holders, loan account holders, outstanding amounts, employees, etc. 
+This project is a CRUD application built with Node.js, React.js, Tailwind CSS, and MySQL. It is based on a small financial institution and the relational database manages data across 10 tables, such as account holders, loan accounts, outstanding amounts, branches, employees, etc.
